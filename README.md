@@ -21,6 +21,8 @@ pip install socket
 
 pip install pyfiglet
 
+pip install beautifulsoup4
+
 Terminala bunları tek tek yazarak indirip çalıştıra bilirsiniz
 
 Her kese Mutlu Günler Dilerim.
